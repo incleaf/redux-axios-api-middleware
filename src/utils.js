@@ -1,0 +1,7 @@
+function isFunction() {
+
+}
+
+module.exports = {
+
+}
